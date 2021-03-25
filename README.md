@@ -8,7 +8,7 @@
 ### Redux
 
 - [21.03.17]
-  Redux, Redux Saga 이해, 흐름
+  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.17.md) Redux Saga를 이용한 api 요청 상태 관리
 
 - [21.03.19]
   connect에서 useSelector, uesDispatch Hooks 교체
