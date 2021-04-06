@@ -14,7 +14,7 @@
   [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.25.md) Redux-persist 사용하여 새로고침 해도 Store 유지
 
 - [21.03.30] :
-  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.25.md) IntersectionObserver 이용해 Infinity Scroll 구현
+  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.30.md) IntersectionObserver 이용해 Infinity Scroll 구현
 
 ### 정리해야 할 것들
 
