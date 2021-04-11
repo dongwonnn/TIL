@@ -16,6 +16,9 @@
 - [21.03.30] :
   [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.30.md) IntersectionObserver 이용해 Infinity Scroll 구현
 
+  - [21.03.30] :
+    [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/04.02.md) JWT 인증 구현, CORS 이슈 해결
+
 ### 정리해야 할 것들
 
 - connect에서 useSelector, uesDispatch Hooks 교체
