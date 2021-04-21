@@ -1,6 +1,6 @@
 ## 사이드 프로젝트 진행하면서 발생한 이슈, 오류 정리
 
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.27.md) JSON으로 가짜 데이터 API 생성, 서버 생성하기useEffect와 axios의 관계
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.27.md) JSON으로 가짜 데이터 API 생성, 서버 생성하기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.28.md) useEffect와 axios의 관계
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.05.md) Github Actions / Pages를 이용한 CI/CD 설정
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.17.md) Redux Saga를 이용한 api 요청 상태 관리
