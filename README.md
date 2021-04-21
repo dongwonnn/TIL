@@ -1,23 +1,15 @@
 ## 사이드 프로젝트 진행하면서 발생한 이슈, 오류 정리
 
-### Redux
+### React / UI / UX
 
-- [21.01.27]
-  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.27.md) JSON으로 가짜 데이터 API 생성, 서버 생성하기
-- [21.01.28]
-  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.28.md) useEffect와 axios의 관계
-
-- [21.03.17]
-  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.17.md) Redux Saga를 이용한 api 요청 상태 관리
-
-- [21.03.25] :
-  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.25.md) Redux-persist 사용하여 새로고침 해도 Store 유지
-
-- [21.03.30] :
-  [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.30.md) IntersectionObserver 이용해 Infinity Scroll 구현
-
-  - [21.03.30] :
-    [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/04.02.md) JWT 인증 구현, CORS 이슈 해결
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.27.md) JSON으로 가짜 데이터 API 생성, 서버 생성하기
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.28.md) useEffect와 axios의 관계
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.17.md) Redux Saga를 이용한 api 요청 상태 관리
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.25.md) Redux-persist 사용하여 새로고침 해도 Store 유지
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.30.md) IntersectionObserver 이용해 Infinity Scroll 구현
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/04.02.md) JWT 인증 구현, CORS 이슈 해결
+- [🔗 Link]() Modal, dim 컴포넌트 구현
+- [🔗 Link]() 마우스 드래그 스크롤 구현
 
 ### 정리해야 할 것들
 
