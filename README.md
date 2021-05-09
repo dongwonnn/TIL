@@ -1,4 +1,4 @@
-## 사이드 프로젝트 진행하면서 발생한 이슈, 오류 정리
+## 공부하면서 얻은 지식들 정리
 
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.27.md) JSON으로 가짜 데이터 API 생성, 서버 생성하기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.28.md) useEffect와 axios의 관계
@@ -8,8 +8,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.03/03.30.md) IntersectionObserver 이용해 Infinity Scroll 구현
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.04/04.02.md) JWT 인증 구현, CORS 이슈 해결
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.04/04.10.md) Modal, dim 컴포넌트 구현
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.04/04.15.md) 페이지 전환 시 스크롤 항상 맨위 고정
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.04/04.21.md) 마우스 드래그 스크롤 구현
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.04/04.15.md) 페이지 이동 시 스크롤 높이 최상단으로 고정하기
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.05/05.09.md) 특정 컴포넌트 특정 페이지에서 제거하기
 
 <!-- ### 정리해야 할 것들
 
