@@ -12,12 +12,12 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.05/05.09.md) 특정 컴포넌트 특정 페이지에서 제거하기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.05/05.13.md) SWR 사용하여 Redux 코드 줄이기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.05/05.16.md) 코드 스플리팅 개념, 적용하기
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.05/05.31.md) React에서 브라우저의 뒤로가기 버튼 이벤트 감지
 
 <!-- ### 정리해야 할 것들
 
 - redux toolkit 사용
 - connect에서 useSelector, uesDispatch Hooks 교체
-- 페이지 전환 시 스크롤 항상 맨위 고정
 - useRef, forwardRef 사용
 - formData 사용, 데이터 검증
 - scoll spy
