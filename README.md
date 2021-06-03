@@ -14,7 +14,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.05/05.16.md) 코드 스플리팅 개념, 적용하기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.05/05.31.md) React에서 브라우저의 뒤로가기 버튼 이벤트 감지
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.01.md) 로그인 페이지에서 로그인 후 직전 페이지로 이동하기
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.02.md) CRA React에 TypeScript 적용, 알아두면 좋은 타입들
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.02.md) CRA React에 TypeScript 적용, 알아두면 좋은 타입들 정리
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.04.md) React 프로젝트 Redux에 TypeSCript 적용
 
 <!-- ### 정리해야 할 것들
 
