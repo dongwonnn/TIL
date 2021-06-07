@@ -16,6 +16,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.01.md) 로그인 페이지에서 로그인 후 직전 페이지로 이동하기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.02.md) CRA React에 TypeScript 적용, 알아두면 좋은 타입들 정리
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.04.md) React 프로젝트 Redux에 TypeSCript 적용
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.1.md) Global styled-components 설정, TypeScript에서 styled-components 적용
 
 <!-- ### 정리해야 할 것들
 
