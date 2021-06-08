@@ -16,7 +16,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.01.md) 로그인 페이지에서 로그인 후 직전 페이지로 이동하기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.02.md) CRA React에 TypeScript 적용, 알아두면 좋은 타입들 정리
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.04.md) React 프로젝트 Redux에 TypeSCript 적용
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.11.md) Global styled-components 설정, TypeScript에서 styled-components 적용
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.07.md) Global styled-components 설정, TypeScript에서 styled-components 적용
 
 <!-- ### 정리해야 할 것들
 
@@ -29,4 +29,6 @@
 - useCallback 사용하여 함수 재사용
 - useState 동작 순서, 순수 함수 사용 여부에 따른 동작 원리
 - 다음 주소 api 관련 오류
-- 비동기 통신 시 남아있는 데이터 처리 -->
+- 비동기 통신 시 남아있는 데이터 처리
+- eslint, prettier 설정 : https://velog.io/@super_iaan/CRA-react-typescript-ESlint-Prettier-%EC%84%A4%EC%A0%95
+-->
