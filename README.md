@@ -20,7 +20,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.07.md) Global styled-components 설정, TypeScript에서 styled-components 적용
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.08.md) React에서 Chartjs 도넛 그래프 적용, 타입스크립트 에러 처리
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.06/06.10.md) AWS EC2, nginx 이용해 React 프로젝트 배포
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.02.md) CheckBox에 관한 것들 정리
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.02.md) CheckBox에 관한 것들 정리 ( ft. React )
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.03.md) select 태그를 이용하지 않는 드랍다운 구현 ( ft. React )
 
 <!-- ### 정리해야 할 것들
 
