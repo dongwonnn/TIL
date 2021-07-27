@@ -23,6 +23,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.02.md) CheckBox에 관한 것들 정리 ( ft. React )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.03.md) select 태그를 이용하지 않는 드랍다운 구현 ( ft. React )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.08.md) react-slick 이용해 캐러셀 구현
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.28.md) [POB#02] Infinity Scroll 구현 방법과 고려한 점
 
 <!-- ### 정리해야 할 것들
 
