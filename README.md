@@ -25,7 +25,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.08.md) react-slick 이용해 캐러셀 구현
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.26.md) [POB#01] POB 합격 후기, 과제 피드백
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.27.md) [POB#02] Infinity Scroll 구현 방법과 고려한 점
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.28.md) [POB#03] Infinity Scroll 커밋 컨벤션 정리
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.28.md) [POB#03] 커밋 컨벤션 정리
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.29.md) [POB#04] 강의 정리와 코드 리뷰, 피드백 후기
 
 <!-- ### 정리해야 할 것들
 
