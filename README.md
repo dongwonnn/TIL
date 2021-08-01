@@ -1,3 +1,11 @@
+## Wanted Pre Onboarding 과정
+
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.26.md) [POB#01] POB 합격 후기, 과제 피드백
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.27.md) [POB#02] Assignment 1 : 하얀 마인드 과제 후기. Infinity Scroll과 고려해야 할 것 들.
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.28.md) [POB#03] 커밋 컨벤션 정리.
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.29.md) [POB#04] 강의 정리와 코드 리뷰, 피드백 후기
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.30.md) [POB#05] Assignment 2 : 미스터 카멜 과제 후기. mock 데이터와 데이터 기능 구현
+
 ## 공부하면서 얻은 지식들 정리
 
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.27.md) JSON으로 가짜 데이터 API 생성, 서버 생성하기
@@ -23,10 +31,6 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.02.md) CheckBox에 관한 것들 정리 ( ft. React )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.03.md) select 태그를 이용하지 않는 드랍다운 구현 ( ft. React )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.08.md) react-slick 이용해 캐러셀 구현
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.26.md) [POB#01] POB 합격 후기, 과제 피드백
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.27.md) [POB#02] Infinity Scroll 구현 방법과 고려한 점
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.28.md) [POB#03] 커밋 컨벤션 정리
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.29.md) [POB#04] 강의 정리와 코드 리뷰, 피드백 후기
 
 <!-- ### 정리해야 할 것들
 
