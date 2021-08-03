@@ -5,6 +5,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.28.md) [POB#03] 커밋 컨벤션 정리.
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.29.md) [POB#04] 강의 정리와 코드 리뷰, 피드백 후기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.30.md) [POB#05] Assignment 2 : 미스터 카멜 과제 후기. mock 데이터와 데이터 기능 구현
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.09.md) [POB#05] Assignment 3 : 자란다. 테이블 컴포넌트, 테이블 페이지 네이션 정리
 
 ## 공부하면서 얻은 지식들 정리
 
