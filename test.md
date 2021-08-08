@@ -1,129 +1,29 @@
-# ❓ 컨벤션을 왜 지켜야 할까
+8월 5일 강의 노트
 
-**컨벤션은 협약**이라는 의미처럼 여러 사람이 지켜야 할 **일종의 룰**입니다. 따라서 개발자들이 협업 과정에서 컨벤션을 지킨다면 다음과 같은 이점이 있습니다.
+## 1차 과제 리뷰
 
-1. 더 좋은 **가독성**
-2. 더 좋은 **유지 보수**
-3. 더 좋은 **협업과 관리**
+1. 프론트엔드지만 데이터 구조는 알아야한다. 그래야 당하지 않을 수 있음.
+2. ref와 DOM의 관계. 리액트는 DOM 에접근에 HTML을 건들 일이 없다. state로 관리 해야한다.
+3. 재사용 코드를 사용해야하지만 input과 output을 기대할 수 있어야한다.
+4. 이벤트 관련
+5. 컨벤션 관련
 
-# 📄 커밋 컨벤션
+- jsx는 시작과 끝을 몰른다. 웬만하면 if문을 사용해 구분하자.
+- if를 이용해 return을 2개 사용하지 말자
+- return 안에서 삼항연산자를 사용해 하나의 return만 사용하자
 
-커밋 컨벤션은 **git 커밋 메세지**를 위한 컨벤션입니다. git 커밋을 이용해 **더 나은 로그 가독성, 리뷰 프로세스, 코드 유지 보수**를 할 수 있습니다.
+6. 대소문자 조심하자
 
-## 커밋 메세지 구조
+- git은 대소문자를 인지할 수 없다. 각자의 환경 editor에서 대소문자 변경하면 모두 반영되지 않는다.
 
-커밋 메세지는 **제목, 본문, 꼬리말**로 구성되어 있고 각자 빈 줄을 두어 구분합니다. 제목을 제외한 나머지는 옵션이지만 웬만하면 지키고 싶어 옵션을 지웠습니다. ( `꼬리말은 제외` )
+7. 폴더구조
 
-> 타입 : [#이슈 번호 - ] 제목
->
-> 본문
->
-> 꼬리말(옵션)
+- 페이지 컴포넌트에 하는일이 없다. 있지만 너무 멀리 있다. 자주 사용하는 것이라면 가까운 곳에 두자
+- 너무 자주 사용하는 utils은 그 폴더 밑에 utils 폴더를 만들어서 사용한다. 너무 멀리 두지 말자
+- 컴포넌트 폴더는 내부 조각들을 모으려고 한 폴더이다.
 
-### 타입
+8. git 관련
 
-커밋 메세지가 **어떤 의도**를 가진 메세지인지 알립니다.
-**태그와 제목**으로 구성되어 있고 사용법은 **태그: 제목**의 형태입니다. (`: 뒤에만 space가 있다 !`)
-
-**ex) Feat: Infinity Scroll 추가**
-
-#### 태그 종류들
-
-<table style="text-align : center;">
-    <th>태그</th>
-    <th>의도</th>
-    <th>태그</th>
-    <th>의도</th>
-    <tr>
-        <td style="color : red">✔️ Feat</td>
-        <td style="color : red">새 기능 추가</td>
-        <td style="color : red">✔️ Fix</td>
-        <td style="color : red">버그 수정</td>
-    </tr>
-    <tr>
-        <td style="color : red">✔️ Design</td>
-        <td style="color : red">CSS, UI 변경</td>
-        <td style="color : red">✔️ Style</td>
-        <td style="color : red">포맷 변경 등 코드 수정이 없는 경우</td>
-    </tr>
-        <tr>
-        <td style="color : red">✔️ Refactor</td>
-        <td style="color : red">코드 리팩토링</td>
-        <td style="color : red">✔️ Comment</td>
-        <td style="color : red">주석 추가</td>
-    </tr>
-    </tr>
-        <tr>
-        <td style="color : red">✔️ Docs</td>
-        <td style="color : red">문서 수정</td>
-        <td>Test</td>
-        <td>테스트 추가, 리팩토링</td>
-    </tr>   
-    </tr>
-    <tr>
-        <td style="color : red">✔️ Rename</td>
-        <td style="color : red">파일명 수정, 이동</td>
-        <td style="color : red">✔️Remove</td>
-        <td style="color : red">파일 삭제</td>
-    </tr>
-    <tr>
-        <td>Chore</td>
-        <td>패키지 매니저 설정</td>
-        <td>!HOTFIX</td>
-        <td>급한 버그 수정</td>
-    </tr>
-    <tr>
-        <td>!BREAKING</br>
-        CHANGE</td>
-        <td>커다란 API 변경</td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
-
-### 제목
-
-제목은 메세지의 **짧은 요약**입니다. 다음과 같은 규칙을 가집니다.
-
-1. "고침", "추가", "변경" 등 **명령조**로 시작합니다. ( 영어의 경우 동사 원형 )
-2. 총 글자는 **50자** 이내
-3. 마지막에 **특수문자 삽입 X**
-4. **개조식** 구문 ( 간결, 요점적인 서술 )
-
-> Feat: "추가 Infinty Scroll 기능"
-
-### 본문
-
-본문은 다음과 같은 규칙을 가집니다.
-
-1. 한 줄 당 **72자 내외**
-2. **최대한 상세히 작성**
-3. 어떻게보단 **무엇, 왜**에 중점적으로
-
-> Feat: "추가 Infinity Scroll 기능"
->
-> - react-intersection-observer 패키지 사용
-> - intersection 관측 시 다음 page API 호출
-
-### 꼬리말
-
-1. **이슈 트래커 ID**를 작성합니다. `"유형: #이슈 번호"`
-2. 여러 개의 이슈 번호는 **쉼표**로 구분합니다.
-3. 이슈 트래커 **유형**
-   - **Fixes**: 이슈 수정 중 ( 아직 미해결 )
-   - **Resolves**: 이슈 해결
-   - **Ref**: 참고할 이슈
-   - **Related to**: 해당 커밋과 관련된 이슈 번호 ( 아직 미해결 )
-
-> Feat: "추가 Infinity Scroll 기능"
->
-> - react-intersection-observer 패키지 사용
-> - intersection 관측 시 다음 page API 호출
->
-> Reslves: #321
-
-# 참고 사이트
-
-#### 🔗[참고 1](https://overcome-the-limits.tistory.com/entry/%ED%98%91%EC%97%85-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-git-%EC%BB%A4%EB%B0%8B%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-
-#### 🔗[참고 2](https://meetup.toast.com/posts/106)
+- stash 사용하자
+- conflict vscode의 버튼 사용하지 말자. 눈으로 하나하나 확인하자.
+- 자주 커밋해야 한다면, 스쿼시. 커밋들을 합쳐서 하나로. rebase : 커밋 시간별로 중간 중간 들어가는 게 아닌 가장 상위 git으로 커밋된다.
