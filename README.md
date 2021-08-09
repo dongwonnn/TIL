@@ -9,6 +9,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.04.md) [POB#010] Assignment 3 : 자란다 기업 과제 기술 정리. jest를 이용한 test 작성.
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.05.md) [POB#011] Assignment 3 : 자란다 기업 과제 기술 정리. 조건별 검색 기능 구현.
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.06.md) [POB#012] 8월 5일 강의 노트. 리액트 성능 최적화에 대해.
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.09.md) [POB#015] Assignment 3 : 자란다 기업 과제 코드 리팩토링.
 
 ## 공부하면서 얻은 지식들 정리
 
