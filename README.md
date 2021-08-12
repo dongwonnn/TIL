@@ -10,7 +10,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.05.md) [POB#011] Assignment 3 : 자란다 기업 과제 기술 정리. 조건별 검색 기능 구현.
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.06.md) [POB#012] 8월 5일 강의 노트. 리액트 성능 최적화에 대해.
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.09.md) [POB#015] Assignment 3 : 자란다 기업 과제 코드 리팩토링.
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.19.md) [POB#016] Assignment 4 : wanted 책 검색 프로젝트 코드 리뷰
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.10.md) [POB#016] Assignment 4 : wanted 책 검색 프로젝트 코드 리뷰
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.12.md) [POB#018] 8월 12일 강의 노트. 동기, 비동기에 대한 전반적인 이해
 
 ## 공부하면서 얻은 지식들 정리
 
