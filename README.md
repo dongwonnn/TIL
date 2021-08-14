@@ -13,6 +13,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.10.md) [POB#016] Assignment 4 : wanted 책 검색 프로젝트 코드 리뷰
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.12.md) [POB#018] 동기, 비동기에 대한 전반적인 이해
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.13.md) [POB#019] 브라우저 작동 원리
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.14.md) [POB#020] 이벤트 루프 ( 자바스크립트 동작 원리 )
 
 ## 공부하면서 얻은 지식들 정리
 
