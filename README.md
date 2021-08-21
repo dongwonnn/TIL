@@ -11,8 +11,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.06.md) [POB#012] 8월 5일 강의 노트. 리액트 성능 최적화에 대해.
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.09.md) [POB#015] Assignment 3 : 자란다 기업 과제 코드 리팩토링.
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.10.md) [POB#016] Assignment 4 : wanted 책 검색 프로젝트 코드 리뷰
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.12.md) [POB#018] 동기, 비동기에 대한 전반적인 이해
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.13.md) [POB#019] Core Javascript 1. 브라우저 작동 원리
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.12.md) [POB#018] Core Javascript 1. 동기, 비동기에 대한 전반적인 이해
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.13.md) [POB#019] 브라우저 작동 원리
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.14.md) [POB#020] 이벤트 루프 ( 자바스크립트 동작 원리 )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.16.md) [POB#022] Core Javascript 2. 실행 컨텍스트, hoisting, scope
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.17.md) [POB#023] Core Javascript 2. 실행 컨텍스트, hoisting, scope
