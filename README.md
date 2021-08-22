@@ -16,6 +16,10 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.14.md) [POB#020] 이벤트 루프 ( 자바스크립트 동작 원리 )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.16.md) [POB#022] Core Javascript 2. 실행 컨텍스트, hoisting, scope
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.17.md) [POB#023] Core Javascript 2. 실행 컨텍스트, hoisting, scope
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.18.md) [POB#024] Assignment 6: 솔라 커넥트 기술 정리. Date 객체(1), Quick Sort
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.20.md) [POB#026] Assignment 7: 솔라 커넥트 기술 정리. Date 객체(2), antd design
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.21.md) [POB#026] 강의 노트
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.22.md) [POB#026] 1달간 회고록
 
 ## 공부하면서 얻은 지식들 정리
 
