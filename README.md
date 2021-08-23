@@ -21,6 +21,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.20.md) [POB#026] Assignment 7: 솔라 커넥트 기술 정리. Date 객체(2), antd design
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.21.md) [POB#026] 강의 노트
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.22.md) [POB#026] 1달간 회고록
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.23.md) [POB#027] TypeScript(1). 기본적인 타입스크립트 개념
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.24.md) [POB#028] TypeScript(2). 리액트를 위한 타입스크립트
 
 ## 공부하면서 얻은 지식들 정리
 
