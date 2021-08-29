@@ -19,8 +19,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.17.md) [POB#023] Core Javascript 2. 실행 컨텍스트, hoisting, scope
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.18.md) [POB#024] Assignment 6: 솔라 커넥트 기술 정리. Date 객체(1), Quick Sort
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.20.md) [POB#026] Assignment 7: 솔라 커넥트 기술 정리. Date 객체(2), antd design
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.21.md) [POB#027] 강의 노트
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.22.md) [POB#028] 1달간 회고록
+<!-- - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.21.md) [POB#027] 강의 노트 -->
+<!-- - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.22.md) [POB#028] 1달간 회고록 -->
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.23.md) [POB#029] TypeScript(1). 기본적인 타입스크립트 개념
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.24.md) [POB#030] TypeScript(2). 리액트를 위한 타입스크립트
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.25.md) [POB#031] Assignment 8 : 모두컴퍼니 기업 과제. Drag and Drop 기능 구현 ( Javascript )
