@@ -25,7 +25,8 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.24.md) [POB#030] TypeScript(2). 리액트를 위한 타입스크립트
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.25.md) [POB#031] Assignment 8 : 모두컴퍼니 기업 과제. Drag and Drop 기능 구현 ( Javascript )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.26.md) [POB#032] Assignment 8 : 모두컴퍼니 기업 과제. Drag and Drop 기능 구현 ( React )
-- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.09/09.01.md) [POB#033] Assignment 9 : 페이워크. json-server 이용해 서버 임시 서버 구현
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.09/09.01.md) [POB#033] Assignment 9 : 페이워크 기업 과제(1). json-server 이용해 서버 임시 서버 구현
+- [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.09/09.01.md) [POB#033] Assignment 9 : 페이워크 기업 과제(2). Redux-Saga를 이용한 비동기 네트워크 통신
 
 ## 공부하면서 얻은 지식들 정리
 
