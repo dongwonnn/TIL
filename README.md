@@ -19,8 +19,6 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.17.md) [POB#023] Core Javascript 2. 실행 컨텍스트, hoisting, scope
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.18.md) [POB#024] Assignment 6: 솔라 커넥트 기술 정리. Date 객체(1), Quick Sort
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.20.md) [POB#026] Assignment 7: 솔라 커넥트 기술 정리. Date 객체(2), antd design
-  <!-- - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.21.md) [POB#027] 강의 노트 -->
-  <!-- - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.22.md) [POB#028] 1달간 회고록 -->
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.23.md) [POB#029] TypeScript(1). 기본적인 타입스크립트 개념
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.24.md) [POB#030] TypeScript(2). 리액트를 위한 타입스크립트
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.08/08.25.md) [POB#031] Assignment 8 : 모두컴퍼니 기업 과제. Drag and Drop 기능 구현 ( Javascript )
@@ -28,7 +26,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.09/09.01.md) [POB#033] Assignment 9 : 페이워크 기업 과제(1). json-server 이용해 서버 임시 서버 구현
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.09/09.01.md) [POB#033] Assignment 9 : 페이워크 기업 과제(2). Redux-Saga를 이용한 비동기 네트워크 통신
 
-## 공부하면서 얻은 지식들 정리
+## 📜 공부하면서 얻은 지식들 정리
 
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.27.md) JSON으로 가짜 데이터 API 생성, 서버 생성하기
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.01/01.28.md) useEffect와 axios의 관계
@@ -54,17 +52,7 @@
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.03.md) select 태그를 이용하지 않는 드랍다운 구현 ( ft. React )
 - [🔗 Link](https://github.com/dongwonnn/TIL/blob/main/21.07/07.08.md) react-slick 이용해 캐러셀 구현
 
-<!-- ### 정리해야 할 것들
-
-- redux toolkit 사용
-- connect에서 useSelector, uesDispatch Hooks 교체
-- useRef, forwardRef 사용
-- formData 사용, 데이터 검증
-- scoll spy
-- light house 이용한 최적화
-- useCallback 사용하여 함수 재사용
-- useState 동작 순서, 순수 함수 사용 여부에 따른 동작 원리
-- 다음 주소 api 관련 오류
-- 비동기 통신 시 남아있는 데이터 처리
-- eslint, prettier 설정 : https://velog.io/@super_iaan/CRA-react-typescript-ESlint-Prettier-%EC%84%A4%EC%A0%95
--->
+## 📚 학습한 책 목록
+ - [🔗 Link](https://github.com/dongwonnn/DOM_Enlightenment) DOM을 깨우치다          
+ - [🔗 Link](https://github.com/dongwonnn/learning-react) React를 다루는 기술       
+ - [🔗 Link](https://github.com/dongwonnn/TypeScript-Study) Do it! 타입 스크립트 프로그래밍 |
